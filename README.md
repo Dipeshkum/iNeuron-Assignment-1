@@ -1,3 +1,3 @@
 # iNeuron-Assignment-1
 
-How to write code in python to print outliers using datasets.
+How to write a code to perform Z-text for statistice use.
